@@ -1,5 +1,5 @@
 -- MySQL dump 10.13  Distrib 5.6.23, for Win64 (x86_64)
---
+-- 
 -- Host: localhost    Database: momentum
 -- ------------------------------------------------------
 -- Server version	6.0.8-alpha-community
