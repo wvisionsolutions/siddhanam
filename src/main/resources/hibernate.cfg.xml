@@ -19,5 +19,6 @@
         <mapping class="com.ciber.momentum.entity.Phone" />
         <mapping class="com.ciber.momentum.entity.PhoneType" />
         <mapping class="com.ciber.momentum.entity.Country" />
+        
     </session-factory>
 </hibernate-configuration>
