@@ -14,7 +14,7 @@ public interface UserDAO extends UserDAOHelper  {
      * @return
      */
 	public boolean addUser(User user) throws Exception;
-
+   
 	/**
      * Method to Update User Data
      * @param user
